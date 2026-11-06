@@ -1,0 +1,1001 @@
+Passenger_ID,Age,Gender,Class,Train,From_Station,To_Station,Category
+1,61,Female,2AC,Koyna Express,Sangli,Mumbai,Above 60
+2,24,Male,Sleeper,Sinhagad Express,Sangli,Nashik,18-30
+3,70,Male,Sleeper,Mahalaxmi Express,Mumbai,Pune,Above 60
+4,30,Male,Sleeper,Mahalaxmi Express,Pune,Nashik,18-30
+5,33,Male,3AC,Mahalaxmi Express,Kolhapur,Sangli,31-45
+6,12,Male,Sleeper,Mahalaxmi Express,Sangli,Nashik,Below 18
+7,31,Female,Sleeper,Deccan Express,Pune,Kolhapur,31-45
+8,62,Male,3AC,Deccan Express,Satara,Pune,Above 60
+9,11,Male,3AC,Intercity Express,Sangli,Kolhapur,Below 18
+10,39,Female,Sleeper,Koyna Express,Kolhapur,Nashik,31-45
+11,47,Male,2AC,Sinhagad Express,Satara,Kolhapur,46-60
+12,11,Female,Sleeper,Sinhagad Express,Satara,Sangli,Below 18
+13,73,Female,Sleeper,Deccan Express,Kolhapur,Pune,Above 60
+14,69,Female,General,Sinhagad Express,Sangli,Kolhapur,Above 60
+15,30,Male,2AC,Deccan Express,Mumbai,Sangli,18-30
+16,42,Male,General,Intercity Express,Kolhapur,Pune,31-45
+17,67,Male,Sleeper,Koyna Express,Kolhapur,Satara,Above 60
+18,31,Female,General,Intercity Express,Kolhapur,Nashik,31-45
+19,58,Male,3AC,Mahalaxmi Express,Satara,Sangli,46-60
+20,68,Female,Sleeper,Mahalaxmi Express,Pune,Mumbai,Above 60
+21,51,Male,General,Mahalaxmi Express,Mumbai,Sangli,46-60
+22,69,Female,General,Intercity Express,Sangli,Pune,Above 60
+23,24,Male,General,Sinhagad Express,Sangli,Kolhapur,18-30
+24,71,Male,Sleeper,Koyna Express,Pune,Satara,Above 60
+25,71,Male,3AC,Mahalaxmi Express,Kolhapur,Pune,Above 60
+26,56,Female,Sleeper,Mahalaxmi Express,Mumbai,Sangli,46-60
+27,71,Female,Sleeper,Mahalaxmi Express,Sangli,Mumbai,Above 60
+28,60,Male,3AC,Koyna Express,Nashik,Satara,46-60
+29,64,Male,General,Mahalaxmi Express,Sangli,Nashik,Above 60
+30,73,Female,Sleeper,Koyna Express,Kolhapur,Pune,Above 60
+31,12,Female,2AC,Mahalaxmi Express,Nashik,Pune,Below 18
+32,60,Female,Sleeper,Intercity Express,Pune,Satara,46-60
+33,16,Male,Sleeper,Intercity Express,Mumbai,Pune,Below 18
+34,30,Female,Sleeper,Koyna Express,Pune,Sangli,18-30
+35,48,Male,Sleeper,Intercity Express,Pune,Sangli,46-60
+36,27,Female,Sleeper,Koyna Express,Mumbai,Sangli,18-30
+37,13,Male,General,Intercity Express,Mumbai,Kolhapur,Below 18
+38,69,Female,General,Intercity Express,Sangli,Pune,Above 60
+39,23,Female,General,Koyna Express,Sangli,Satara,18-30
+40,18,Female,2AC,Sinhagad Express,Mumbai,Nashik,Below 18
+41,62,Female,3AC,Intercity Express,Nashik,Sangli,Above 60
+42,11,Female,General,Mahalaxmi Express,Satara,Sangli,Below 18
+43,69,Male,General,Sinhagad Express,Sangli,Nashik,Above 60
+44,53,Female,3AC,Koyna Express,Satara,Nashik,46-60
+45,17,Female,General,Sinhagad Express,Nashik,Pune,Below 18
+46,56,Female,Sleeper,Deccan Express,Mumbai,Sangli,46-60
+47,44,Male,2AC,Deccan Express,Nashik,Mumbai,31-45
+48,45,Female,Sleeper,Intercity Express,Sangli,Kolhapur,31-45
+49,59,Male,3AC,Intercity Express,Pune,Kolhapur,46-60
+50,13,Female,2AC,Mahalaxmi Express,Mumbai,Sangli,Below 18
+51,11,Female,Sleeper,Sinhagad Express,Kolhapur,Nashik,Below 18
+52,15,Male,General,Deccan Express,Satara,Pune,Below 18
+53,63,Female,Sleeper,Intercity Express,Nashik,Pune,Above 60
+54,13,Male,3AC,Sinhagad Express,Mumbai,Pune,Below 18
+55,63,Male,2AC,Intercity Express,Nashik,Mumbai,Above 60
+56,72,Female,3AC,Intercity Express,Mumbai,Sangli,Above 60
+57,27,Male,General,Deccan Express,Sangli,Pune,18-30
+58,53,Female,3AC,Deccan Express,Sangli,Kolhapur,46-60
+59,43,Female,2AC,Intercity Express,Sangli,Nashik,31-45
+60,71,Male,3AC,Koyna Express,Nashik,Satara,Above 60
+61,23,Male,2AC,Intercity Express,Kolhapur,Satara,18-30
+62,57,Male,3AC,Intercity Express,Sangli,Pune,46-60
+63,24,Male,3AC,Mahalaxmi Express,Mumbai,Satara,18-30
+64,71,Female,Sleeper,Mahalaxmi Express,Sangli,Satara,Above 60
+65,49,Female,Sleeper,Mahalaxmi Express,Pune,Mumbai,46-60
+66,62,Male,General,Koyna Express,Sangli,Kolhapur,Above 60
+67,33,Female,3AC,Koyna Express,Nashik,Kolhapur,31-45
+68,35,Female,Sleeper,Intercity Express,Kolhapur,Mumbai,31-45
+69,69,Female,2AC,Mahalaxmi Express,Pune,Mumbai,Above 60
+70,50,Female,2AC,Koyna Express,Nashik,Satara,46-60
+71,38,Male,3AC,Deccan Express,Nashik,Sangli,31-45
+72,24,Male,General,Intercity Express,Nashik,Sangli,18-30
+73,54,Female,Sleeper,Sinhagad Express,Mumbai,Nashik,46-60
+74,74,Male,General,Intercity Express,Nashik,Satara,Above 60
+75,18,Male,3AC,Sinhagad Express,Mumbai,Nashik,Below 18
+76,10,Male,3AC,Mahalaxmi Express,Nashik,Mumbai,Below 18
+77,17,Female,2AC,Sinhagad Express,Satara,Kolhapur,Below 18
+78,72,Female,Sleeper,Mahalaxmi Express,Pune,Nashik,Above 60
+79,20,Female,2AC,Deccan Express,Satara,Nashik,18-30
+80,17,Male,2AC,Sinhagad Express,Nashik,Sangli,Below 18
+81,44,Female,Sleeper,Intercity Express,Pune,Satara,31-45
+82,44,Female,2AC,Mahalaxmi Express,Pune,Nashik,31-45
+83,42,Male,Sleeper,Intercity Express,Kolhapur,Satara,31-45
+84,14,Female,Sleeper,Koyna Express,Satara,Mumbai,Below 18
+85,50,Female,3AC,Mahalaxmi Express,Kolhapur,Pune,46-60
+86,37,Male,Sleeper,Sinhagad Express,Pune,Kolhapur,31-45
+87,16,Male,3AC,Mahalaxmi Express,Mumbai,Nashik,Below 18
+88,21,Male,3AC,Intercity Express,Pune,Mumbai,18-30
+89,43,Female,Sleeper,Deccan Express,Kolhapur,Pune,31-45
+90,42,Female,Sleeper,Mahalaxmi Express,Satara,Mumbai,31-45
+91,57,Female,Sleeper,Sinhagad Express,Nashik,Satara,46-60
+92,32,Male,Sleeper,Koyna Express,Nashik,Mumbai,31-45
+93,71,Male,Sleeper,Deccan Express,Satara,Mumbai,Above 60
+94,46,Female,Sleeper,Koyna Express,Nashik,Pune,46-60
+95,53,Female,General,Mahalaxmi Express,Nashik,Satara,46-60
+96,44,Male,Sleeper,Intercity Express,Kolhapur,Sangli,31-45
+97,74,Male,General,Intercity Express,Satara,Sangli,Above 60
+98,56,Male,3AC,Sinhagad Express,Sangli,Kolhapur,46-60
+99,12,Male,3AC,Intercity Express,Mumbai,Nashik,Below 18
+100,10,Female,Sleeper,Deccan Express,Mumbai,Pune,Below 18
+101,14,Male,Sleeper,Intercity Express,Nashik,Kolhapur,Below 18
+102,23,Female,2AC,Sinhagad Express,Mumbai,Pune,18-30
+103,36,Female,3AC,Mahalaxmi Express,Satara,Sangli,31-45
+104,18,Female,2AC,Mahalaxmi Express,Satara,Mumbai,Below 18
+105,24,Male,3AC,Intercity Express,Pune,Kolhapur,18-30
+106,51,Male,General,Koyna Express,Pune,Nashik,46-60
+107,60,Male,General,Mahalaxmi Express,Mumbai,Pune,46-60
+108,72,Male,Sleeper,Intercity Express,Sangli,Mumbai,Above 60
+109,61,Female,Sleeper,Sinhagad Express,Pune,Nashik,Above 60
+110,13,Male,Sleeper,Intercity Express,Pune,Satara,Below 18
+111,32,Male,Sleeper,Mahalaxmi Express,Satara,Nashik,31-45
+112,24,Female,Sleeper,Sinhagad Express,Sangli,Mumbai,18-30
+113,52,Male,3AC,Intercity Express,Nashik,Mumbai,46-60
+114,38,Female,3AC,Deccan Express,Mumbai,Nashik,31-45
+115,45,Female,Sleeper,Sinhagad Express,Pune,Satara,31-45
+116,22,Female,3AC,Deccan Express,Sangli,Kolhapur,18-30
+117,41,Female,Sleeper,Koyna Express,Sangli,Pune,31-45
+118,68,Female,2AC,Sinhagad Express,Mumbai,Pune,Above 60
+119,37,Female,General,Deccan Express,Sangli,Satara,31-45
+120,75,Female,2AC,Mahalaxmi Express,Sangli,Satara,Above 60
+121,51,Female,3AC,Mahalaxmi Express,Sangli,Satara,46-60
+122,54,Male,Sleeper,Koyna Express,Pune,Sangli,46-60
+123,71,Male,General,Sinhagad Express,Mumbai,Sangli,Above 60
+124,66,Male,Sleeper,Sinhagad Express,Sangli,Nashik,Above 60
+125,15,Male,General,Sinhagad Express,Sangli,Pune,Below 18
+126,37,Female,General,Koyna Express,Pune,Mumbai,31-45
+127,37,Male,3AC,Sinhagad Express,Mumbai,Nashik,31-45
+128,53,Female,Sleeper,Mahalaxmi Express,Satara,Pune,46-60
+129,39,Male,3AC,Deccan Express,Pune,Kolhapur,31-45
+130,71,Male,2AC,Mahalaxmi Express,Mumbai,Pune,Above 60
+131,71,Male,Sleeper,Mahalaxmi Express,Sangli,Pune,Above 60
+132,10,Female,Sleeper,Deccan Express,Mumbai,Pune,Below 18
+133,36,Male,General,Mahalaxmi Express,Mumbai,Nashik,31-45
+134,71,Female,3AC,Koyna Express,Nashik,Satara,Above 60
+135,12,Female,Sleeper,Deccan Express,Mumbai,Satara,Below 18
+136,79,Male,2AC,Mahalaxmi Express,Satara,Mumbai,Above 60
+137,36,Male,3AC,Intercity Express,Mumbai,Satara,31-45
+138,18,Male,Sleeper,Mahalaxmi Express,Satara,Pune,Below 18
+139,71,Female,General,Koyna Express,Sangli,Satara,Above 60
+140,46,Male,2AC,Sinhagad Express,Satara,Sangli,46-60
+141,60,Female,3AC,Mahalaxmi Express,Sangli,Satara,46-60
+142,53,Female,General,Sinhagad Express,Sangli,Pune,46-60
+143,33,Male,Sleeper,Intercity Express,Satara,Nashik,31-45
+144,68,Male,3AC,Mahalaxmi Express,Pune,Mumbai,Above 60
+145,41,Female,General,Deccan Express,Kolhapur,Sangli,31-45
+146,61,Female,2AC,Sinhagad Express,Mumbai,Satara,Above 60
+147,71,Female,Sleeper,Intercity Express,Nashik,Pune,Above 60
+148,67,Male,General,Deccan Express,Kolhapur,Pune,Above 60
+149,61,Female,3AC,Deccan Express,Mumbai,Kolhapur,Above 60
+150,21,Male,Sleeper,Deccan Express,Mumbai,Sangli,18-30
+151,48,Female,Sleeper,Deccan Express,Sangli,Kolhapur,46-60
+152,11,Female,General,Mahalaxmi Express,Mumbai,Nashik,Below 18
+153,12,Male,General,Mahalaxmi Express,Nashik,Pune,Below 18
+154,65,Female,3AC,Mahalaxmi Express,Mumbai,Pune,Above 60
+155,68,Male,Sleeper,Intercity Express,Satara,Sangli,Above 60
+156,11,Male,Sleeper,Intercity Express,Kolhapur,Satara,Below 18
+157,11,Female,3AC,Intercity Express,Satara,Sangli,Below 18
+158,63,Male,3AC,Koyna Express,Nashik,Sangli,Above 60
+159,10,Male,General,Intercity Express,Mumbai,Kolhapur,Below 18
+160,28,Female,Sleeper,Mahalaxmi Express,Nashik,Kolhapur,18-30
+161,11,Male,2AC,Mahalaxmi Express,Sangli,Mumbai,Below 18
+162,62,Male,3AC,Koyna Express,Satara,Nashik,Above 60
+163,53,Male,Sleeper,Koyna Express,Satara,Sangli,46-60
+164,41,Female,Sleeper,Intercity Express,Pune,Mumbai,31-45
+165,79,Male,Sleeper,Sinhagad Express,Mumbai,Sangli,Above 60
+166,41,Female,3AC,Koyna Express,Sangli,Mumbai,31-45
+167,77,Female,2AC,Deccan Express,Satara,Kolhapur,Above 60
+168,64,Male,3AC,Mahalaxmi Express,Satara,Sangli,Above 60
+169,65,Male,3AC,Deccan Express,Sangli,Mumbai,Above 60
+170,26,Male,3AC,Mahalaxmi Express,Nashik,Pune,18-30
+171,47,Female,General,Mahalaxmi Express,Nashik,Kolhapur,46-60
+172,33,Male,Sleeper,Koyna Express,Mumbai,Kolhapur,31-45
+173,78,Male,General,Koyna Express,Pune,Nashik,Above 60
+174,79,Male,Sleeper,Deccan Express,Satara,Sangli,Above 60
+175,20,Male,2AC,Mahalaxmi Express,Pune,Kolhapur,18-30
+176,25,Male,Sleeper,Deccan Express,Nashik,Sangli,18-30
+177,68,Female,Sleeper,Sinhagad Express,Nashik,Sangli,Above 60
+178,79,Female,General,Deccan Express,Kolhapur,Nashik,Above 60
+179,12,Male,Sleeper,Intercity Express,Mumbai,Pune,Below 18
+180,29,Male,Sleeper,Deccan Express,Kolhapur,Sangli,18-30
+181,68,Male,Sleeper,Intercity Express,Kolhapur,Mumbai,Above 60
+182,45,Male,3AC,Intercity Express,Kolhapur,Pune,31-45
+183,28,Female,Sleeper,Intercity Express,Mumbai,Sangli,18-30
+184,76,Male,3AC,Sinhagad Express,Mumbai,Sangli,Above 60
+185,28,Female,General,Deccan Express,Sangli,Kolhapur,18-30
+186,29,Female,General,Deccan Express,Pune,Satara,18-30
+187,61,Male,Sleeper,Sinhagad Express,Pune,Kolhapur,Above 60
+188,42,Female,Sleeper,Mahalaxmi Express,Sangli,Nashik,31-45
+189,49,Female,3AC,Koyna Express,Sangli,Kolhapur,46-60
+190,48,Female,Sleeper,Deccan Express,Nashik,Satara,46-60
+191,10,Female,Sleeper,Koyna Express,Kolhapur,Sangli,Below 18
+192,20,Male,3AC,Sinhagad Express,Sangli,Pune,18-30
+193,66,Male,General,Mahalaxmi Express,Satara,Sangli,Above 60
+194,59,Female,Sleeper,Mahalaxmi Express,Pune,Sangli,46-60
+195,32,Male,3AC,Mahalaxmi Express,Sangli,Satara,31-45
+196,40,Male,3AC,Sinhagad Express,Satara,Kolhapur,31-45
+197,51,Male,Sleeper,Intercity Express,Satara,Sangli,46-60
+198,16,Male,2AC,Intercity Express,Satara,Kolhapur,Below 18
+199,25,Male,3AC,Koyna Express,Nashik,Mumbai,18-30
+200,69,Female,Sleeper,Intercity Express,Nashik,Mumbai,Above 60
+201,11,Male,3AC,Intercity Express,Satara,Kolhapur,Below 18
+202,10,Male,Sleeper,Mahalaxmi Express,Nashik,Pune,Below 18
+203,57,Male,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,46-60
+204,21,Male,Sleeper,Koyna Express,Satara,Pune,18-30
+205,78,Female,Sleeper,Deccan Express,Kolhapur,Sangli,Above 60
+206,46,Female,3AC,Koyna Express,Kolhapur,Nashik,46-60
+207,41,Female,Sleeper,Koyna Express,Satara,Kolhapur,31-45
+208,18,Female,3AC,Sinhagad Express,Pune,Nashik,Below 18
+209,28,Male,3AC,Sinhagad Express,Satara,Sangli,18-30
+210,57,Female,General,Koyna Express,Satara,Kolhapur,46-60
+211,12,Male,3AC,Koyna Express,Nashik,Pune,Below 18
+212,29,Male,Sleeper,Koyna Express,Satara,Sangli,18-30
+213,33,Male,Sleeper,Intercity Express,Pune,Satara,31-45
+214,63,Male,3AC,Sinhagad Express,Nashik,Mumbai,Above 60
+215,42,Male,Sleeper,Koyna Express,Mumbai,Nashik,31-45
+216,33,Female,Sleeper,Mahalaxmi Express,Mumbai,Sangli,31-45
+217,45,Female,General,Mahalaxmi Express,Kolhapur,Sangli,31-45
+218,47,Female,General,Intercity Express,Kolhapur,Nashik,46-60
+219,34,Female,Sleeper,Intercity Express,Pune,Kolhapur,31-45
+220,27,Male,Sleeper,Deccan Express,Sangli,Kolhapur,18-30
+221,75,Female,2AC,Deccan Express,Mumbai,Kolhapur,Above 60
+222,63,Male,Sleeper,Deccan Express,Kolhapur,Mumbai,Above 60
+223,44,Female,Sleeper,Intercity Express,Mumbai,Satara,31-45
+224,70,Male,Sleeper,Intercity Express,Pune,Satara,Above 60
+225,50,Male,General,Intercity Express,Pune,Nashik,46-60
+226,42,Female,2AC,Mahalaxmi Express,Sangli,Nashik,31-45
+227,77,Male,3AC,Intercity Express,Sangli,Kolhapur,Above 60
+228,42,Male,3AC,Mahalaxmi Express,Nashik,Mumbai,31-45
+229,23,Female,General,Deccan Express,Pune,Kolhapur,18-30
+230,30,Male,Sleeper,Deccan Express,Kolhapur,Mumbai,18-30
+231,57,Female,Sleeper,Deccan Express,Mumbai,Kolhapur,46-60
+232,29,Female,3AC,Koyna Express,Satara,Pune,18-30
+233,17,Female,General,Koyna Express,Sangli,Pune,Below 18
+234,16,Male,Sleeper,Sinhagad Express,Satara,Sangli,Below 18
+235,76,Male,2AC,Sinhagad Express,Kolhapur,Nashik,Above 60
+236,26,Male,Sleeper,Sinhagad Express,Sangli,Nashik,18-30
+237,42,Female,Sleeper,Koyna Express,Satara,Nashik,31-45
+238,57,Male,General,Koyna Express,Kolhapur,Sangli,46-60
+239,68,Female,2AC,Sinhagad Express,Mumbai,Nashik,Above 60
+240,31,Female,General,Sinhagad Express,Kolhapur,Pune,31-45
+241,39,Male,3AC,Intercity Express,Nashik,Kolhapur,31-45
+242,47,Female,3AC,Sinhagad Express,Sangli,Kolhapur,46-60
+243,60,Male,Sleeper,Intercity Express,Pune,Kolhapur,46-60
+244,63,Male,3AC,Mahalaxmi Express,Mumbai,Pune,Above 60
+245,17,Male,General,Koyna Express,Satara,Sangli,Below 18
+246,36,Male,Sleeper,Sinhagad Express,Sangli,Pune,31-45
+247,36,Male,3AC,Koyna Express,Pune,Mumbai,31-45
+248,30,Female,2AC,Koyna Express,Kolhapur,Pune,18-30
+249,39,Female,3AC,Koyna Express,Pune,Kolhapur,31-45
+250,37,Female,Sleeper,Mahalaxmi Express,Sangli,Satara,31-45
+251,73,Male,General,Deccan Express,Sangli,Pune,Above 60
+252,78,Male,General,Sinhagad Express,Nashik,Pune,Above 60
+253,70,Male,General,Deccan Express,Nashik,Satara,Above 60
+254,57,Female,Sleeper,Deccan Express,Pune,Mumbai,46-60
+255,28,Male,Sleeper,Deccan Express,Kolhapur,Sangli,18-30
+256,13,Female,Sleeper,Koyna Express,Pune,Sangli,Below 18
+257,44,Female,Sleeper,Intercity Express,Sangli,Satara,31-45
+258,73,Male,Sleeper,Koyna Express,Sangli,Pune,Above 60
+259,58,Male,Sleeper,Koyna Express,Satara,Pune,46-60
+260,26,Female,3AC,Deccan Express,Nashik,Satara,18-30
+261,53,Male,Sleeper,Koyna Express,Satara,Kolhapur,46-60
+262,39,Female,2AC,Deccan Express,Mumbai,Pune,31-45
+263,55,Male,2AC,Intercity Express,Sangli,Pune,46-60
+264,15,Male,General,Sinhagad Express,Satara,Pune,Below 18
+265,46,Female,3AC,Deccan Express,Pune,Kolhapur,46-60
+266,33,Male,Sleeper,Intercity Express,Nashik,Mumbai,31-45
+267,55,Female,Sleeper,Sinhagad Express,Nashik,Sangli,46-60
+268,62,Male,Sleeper,Mahalaxmi Express,Kolhapur,Sangli,Above 60
+269,69,Female,Sleeper,Deccan Express,Pune,Satara,Above 60
+270,72,Female,Sleeper,Deccan Express,Kolhapur,Mumbai,Above 60
+271,41,Male,Sleeper,Mahalaxmi Express,Satara,Nashik,31-45
+272,42,Female,3AC,Mahalaxmi Express,Mumbai,Sangli,31-45
+273,76,Male,3AC,Deccan Express,Pune,Kolhapur,Above 60
+274,27,Male,Sleeper,Mahalaxmi Express,Pune,Sangli,18-30
+275,34,Male,3AC,Koyna Express,Pune,Satara,31-45
+276,63,Female,General,Sinhagad Express,Kolhapur,Nashik,Above 60
+277,67,Female,Sleeper,Sinhagad Express,Satara,Mumbai,Above 60
+278,76,Male,3AC,Sinhagad Express,Pune,Mumbai,Above 60
+279,55,Male,Sleeper,Koyna Express,Pune,Satara,46-60
+280,33,Female,General,Mahalaxmi Express,Nashik,Kolhapur,31-45
+281,41,Male,General,Intercity Express,Mumbai,Satara,31-45
+282,56,Male,Sleeper,Mahalaxmi Express,Nashik,Kolhapur,46-60
+283,32,Female,2AC,Deccan Express,Nashik,Sangli,31-45
+284,75,Male,Sleeper,Sinhagad Express,Mumbai,Pune,Above 60
+285,36,Female,2AC,Mahalaxmi Express,Satara,Pune,31-45
+286,11,Male,Sleeper,Intercity Express,Nashik,Pune,Below 18
+287,26,Female,Sleeper,Deccan Express,Satara,Kolhapur,18-30
+288,42,Male,Sleeper,Koyna Express,Nashik,Kolhapur,31-45
+289,18,Male,3AC,Koyna Express,Sangli,Satara,Below 18
+290,52,Female,General,Intercity Express,Mumbai,Pune,46-60
+291,57,Male,2AC,Deccan Express,Nashik,Satara,46-60
+292,48,Female,3AC,Sinhagad Express,Sangli,Pune,46-60
+293,51,Male,Sleeper,Mahalaxmi Express,Kolhapur,Satara,46-60
+294,35,Female,2AC,Deccan Express,Sangli,Satara,31-45
+295,59,Female,3AC,Koyna Express,Pune,Sangli,46-60
+296,34,Female,3AC,Intercity Express,Nashik,Satara,31-45
+297,33,Female,General,Intercity Express,Sangli,Kolhapur,31-45
+298,22,Male,Sleeper,Mahalaxmi Express,Satara,Nashik,18-30
+299,69,Male,Sleeper,Intercity Express,Kolhapur,Pune,Above 60
+300,16,Female,Sleeper,Intercity Express,Nashik,Satara,Below 18
+301,66,Female,General,Deccan Express,Pune,Mumbai,Above 60
+302,45,Female,3AC,Sinhagad Express,Sangli,Nashik,31-45
+303,54,Male,General,Mahalaxmi Express,Kolhapur,Pune,46-60
+304,29,Male,Sleeper,Deccan Express,Nashik,Mumbai,18-30
+305,74,Male,2AC,Sinhagad Express,Kolhapur,Pune,Above 60
+306,17,Male,2AC,Deccan Express,Pune,Kolhapur,Below 18
+307,25,Female,Sleeper,Deccan Express,Sangli,Nashik,18-30
+308,23,Female,2AC,Intercity Express,Kolhapur,Nashik,18-30
+309,24,Female,General,Sinhagad Express,Kolhapur,Mumbai,18-30
+310,75,Male,General,Mahalaxmi Express,Mumbai,Nashik,Above 60
+311,41,Male,3AC,Mahalaxmi Express,Kolhapur,Satara,31-45
+312,72,Male,Sleeper,Sinhagad Express,Mumbai,Pune,Above 60
+313,60,Female,Sleeper,Intercity Express,Sangli,Nashik,46-60
+314,34,Female,Sleeper,Koyna Express,Nashik,Pune,31-45
+315,67,Male,General,Deccan Express,Nashik,Kolhapur,Above 60
+316,72,Female,Sleeper,Intercity Express,Sangli,Pune,Above 60
+317,71,Male,Sleeper,Sinhagad Express,Sangli,Mumbai,Above 60
+318,31,Male,3AC,Deccan Express,Satara,Sangli,31-45
+319,67,Female,3AC,Mahalaxmi Express,Sangli,Mumbai,Above 60
+320,67,Male,Sleeper,Koyna Express,Kolhapur,Nashik,Above 60
+321,58,Female,Sleeper,Mahalaxmi Express,Nashik,Pune,46-60
+322,61,Male,General,Sinhagad Express,Pune,Sangli,Above 60
+323,51,Female,General,Deccan Express,Nashik,Satara,46-60
+324,79,Female,3AC,Sinhagad Express,Mumbai,Sangli,Above 60
+325,24,Female,Sleeper,Deccan Express,Nashik,Satara,18-30
+326,63,Male,General,Intercity Express,Satara,Mumbai,Above 60
+327,69,Male,3AC,Koyna Express,Sangli,Kolhapur,Above 60
+328,17,Female,3AC,Intercity Express,Sangli,Pune,Below 18
+329,62,Female,3AC,Intercity Express,Nashik,Satara,Above 60
+330,69,Male,Sleeper,Sinhagad Express,Pune,Satara,Above 60
+331,14,Male,Sleeper,Koyna Express,Pune,Mumbai,Below 18
+332,77,Male,Sleeper,Deccan Express,Satara,Pune,Above 60
+333,15,Female,General,Deccan Express,Mumbai,Pune,Below 18
+334,56,Male,3AC,Mahalaxmi Express,Nashik,Mumbai,46-60
+335,64,Male,3AC,Deccan Express,Sangli,Pune,Above 60
+336,49,Female,3AC,Sinhagad Express,Nashik,Kolhapur,46-60
+337,61,Male,3AC,Intercity Express,Satara,Mumbai,Above 60
+338,25,Male,Sleeper,Intercity Express,Kolhapur,Nashik,18-30
+339,22,Male,3AC,Intercity Express,Kolhapur,Pune,18-30
+340,39,Female,Sleeper,Koyna Express,Satara,Mumbai,31-45
+341,28,Female,Sleeper,Deccan Express,Sangli,Pune,18-30
+342,26,Female,Sleeper,Sinhagad Express,Satara,Mumbai,18-30
+343,72,Female,General,Koyna Express,Sangli,Pune,Above 60
+344,28,Female,Sleeper,Mahalaxmi Express,Pune,Kolhapur,18-30
+345,67,Female,2AC,Sinhagad Express,Satara,Kolhapur,Above 60
+346,64,Female,Sleeper,Sinhagad Express,Sangli,Pune,Above 60
+347,71,Male,General,Sinhagad Express,Satara,Mumbai,Above 60
+348,32,Male,Sleeper,Intercity Express,Satara,Nashik,31-45
+349,18,Female,3AC,Sinhagad Express,Sangli,Kolhapur,Below 18
+350,21,Male,Sleeper,Deccan Express,Sangli,Kolhapur,18-30
+351,10,Male,3AC,Sinhagad Express,Mumbai,Nashik,Below 18
+352,67,Female,General,Intercity Express,Satara,Pune,Above 60
+353,10,Male,3AC,Sinhagad Express,Kolhapur,Pune,Below 18
+354,43,Male,Sleeper,Mahalaxmi Express,Satara,Mumbai,31-45
+355,57,Male,3AC,Mahalaxmi Express,Satara,Nashik,46-60
+356,10,Male,3AC,Intercity Express,Sangli,Pune,Below 18
+357,25,Male,General,Deccan Express,Satara,Sangli,18-30
+358,70,Female,General,Deccan Express,Nashik,Kolhapur,Above 60
+359,73,Female,General,Koyna Express,Satara,Sangli,Above 60
+360,72,Female,Sleeper,Intercity Express,Nashik,Kolhapur,Above 60
+361,78,Male,Sleeper,Sinhagad Express,Kolhapur,Nashik,Above 60
+362,31,Female,3AC,Intercity Express,Sangli,Kolhapur,31-45
+363,76,Male,Sleeper,Koyna Express,Satara,Sangli,Above 60
+364,35,Male,Sleeper,Intercity Express,Nashik,Pune,31-45
+365,25,Male,General,Intercity Express,Nashik,Sangli,18-30
+366,60,Male,General,Koyna Express,Nashik,Kolhapur,46-60
+367,66,Female,2AC,Deccan Express,Pune,Sangli,Above 60
+368,38,Female,Sleeper,Sinhagad Express,Mumbai,Pune,31-45
+369,78,Male,3AC,Koyna Express,Kolhapur,Nashik,Above 60
+370,56,Female,3AC,Mahalaxmi Express,Satara,Pune,46-60
+371,71,Male,3AC,Deccan Express,Pune,Nashik,Above 60
+372,78,Female,2AC,Mahalaxmi Express,Satara,Kolhapur,Above 60
+373,25,Female,Sleeper,Deccan Express,Satara,Nashik,18-30
+374,57,Male,2AC,Sinhagad Express,Sangli,Nashik,46-60
+375,48,Female,General,Sinhagad Express,Sangli,Kolhapur,46-60
+376,42,Male,General,Intercity Express,Sangli,Pune,31-45
+377,32,Female,3AC,Mahalaxmi Express,Pune,Kolhapur,31-45
+378,19,Male,2AC,Deccan Express,Satara,Nashik,18-30
+379,78,Male,3AC,Sinhagad Express,Mumbai,Nashik,Above 60
+380,43,Female,General,Koyna Express,Kolhapur,Sangli,31-45
+381,61,Female,Sleeper,Sinhagad Express,Sangli,Kolhapur,Above 60
+382,19,Male,2AC,Koyna Express,Sangli,Mumbai,18-30
+383,28,Female,Sleeper,Deccan Express,Satara,Mumbai,18-30
+384,67,Female,3AC,Sinhagad Express,Satara,Sangli,Above 60
+385,10,Male,3AC,Sinhagad Express,Pune,Kolhapur,Below 18
+386,78,Male,Sleeper,Deccan Express,Pune,Kolhapur,Above 60
+387,13,Female,Sleeper,Sinhagad Express,Sangli,Pune,Below 18
+388,25,Male,Sleeper,Koyna Express,Satara,Nashik,18-30
+389,33,Male,Sleeper,Sinhagad Express,Mumbai,Satara,31-45
+390,11,Male,2AC,Mahalaxmi Express,Kolhapur,Sangli,Below 18
+391,41,Female,Sleeper,Intercity Express,Satara,Sangli,31-45
+392,33,Female,2AC,Koyna Express,Satara,Mumbai,31-45
+393,21,Male,General,Mahalaxmi Express,Nashik,Sangli,18-30
+394,59,Female,2AC,Deccan Express,Pune,Kolhapur,46-60
+395,44,Male,Sleeper,Koyna Express,Kolhapur,Sangli,31-45
+396,42,Female,General,Intercity Express,Sangli,Satara,31-45
+397,42,Male,General,Intercity Express,Satara,Nashik,31-45
+398,70,Male,3AC,Deccan Express,Sangli,Nashik,Above 60
+399,60,Female,3AC,Deccan Express,Satara,Nashik,46-60
+400,52,Male,3AC,Koyna Express,Sangli,Kolhapur,46-60
+401,21,Female,General,Sinhagad Express,Kolhapur,Mumbai,18-30
+402,76,Female,General,Deccan Express,Pune,Sangli,Above 60
+403,74,Male,Sleeper,Sinhagad Express,Kolhapur,Nashik,Above 60
+404,42,Male,Sleeper,Mahalaxmi Express,Nashik,Sangli,31-45
+405,49,Female,Sleeper,Intercity Express,Mumbai,Nashik,46-60
+406,52,Male,2AC,Sinhagad Express,Pune,Kolhapur,46-60
+407,53,Male,2AC,Intercity Express,Kolhapur,Mumbai,46-60
+408,38,Male,2AC,Sinhagad Express,Nashik,Mumbai,31-45
+409,22,Male,3AC,Mahalaxmi Express,Mumbai,Nashik,18-30
+410,21,Male,Sleeper,Deccan Express,Nashik,Kolhapur,18-30
+411,55,Female,Sleeper,Mahalaxmi Express,Satara,Pune,46-60
+412,11,Female,Sleeper,Deccan Express,Satara,Sangli,Below 18
+413,44,Male,3AC,Deccan Express,Sangli,Kolhapur,31-45
+414,17,Male,General,Intercity Express,Pune,Satara,Below 18
+415,35,Male,Sleeper,Mahalaxmi Express,Satara,Kolhapur,31-45
+416,43,Female,General,Sinhagad Express,Nashik,Satara,31-45
+417,16,Male,Sleeper,Mahalaxmi Express,Pune,Nashik,Below 18
+418,77,Female,2AC,Intercity Express,Satara,Pune,Above 60
+419,67,Female,3AC,Deccan Express,Sangli,Mumbai,Above 60
+420,38,Female,Sleeper,Intercity Express,Kolhapur,Sangli,31-45
+421,45,Male,2AC,Koyna Express,Sangli,Satara,31-45
+422,30,Female,3AC,Koyna Express,Mumbai,Sangli,18-30
+423,45,Male,General,Sinhagad Express,Satara,Kolhapur,31-45
+424,19,Female,Sleeper,Intercity Express,Mumbai,Satara,18-30
+425,33,Male,Sleeper,Sinhagad Express,Mumbai,Nashik,31-45
+426,73,Female,General,Sinhagad Express,Nashik,Sangli,Above 60
+427,58,Male,2AC,Koyna Express,Pune,Nashik,46-60
+428,45,Female,Sleeper,Sinhagad Express,Nashik,Sangli,31-45
+429,33,Male,2AC,Koyna Express,Satara,Nashik,31-45
+430,32,Male,Sleeper,Deccan Express,Mumbai,Kolhapur,31-45
+431,71,Male,General,Intercity Express,Kolhapur,Satara,Above 60
+432,46,Male,Sleeper,Sinhagad Express,Mumbai,Sangli,46-60
+433,21,Female,General,Koyna Express,Kolhapur,Mumbai,18-30
+434,64,Female,Sleeper,Mahalaxmi Express,Nashik,Sangli,Above 60
+435,22,Male,2AC,Sinhagad Express,Nashik,Pune,18-30
+436,32,Female,Sleeper,Deccan Express,Pune,Mumbai,31-45
+437,39,Male,3AC,Deccan Express,Mumbai,Nashik,31-45
+438,26,Male,General,Mahalaxmi Express,Sangli,Pune,18-30
+439,71,Female,General,Koyna Express,Nashik,Sangli,Above 60
+440,22,Male,General,Sinhagad Express,Nashik,Sangli,18-30
+441,68,Male,Sleeper,Koyna Express,Pune,Kolhapur,Above 60
+442,28,Female,General,Deccan Express,Kolhapur,Satara,18-30
+443,58,Male,Sleeper,Koyna Express,Pune,Mumbai,46-60
+444,21,Male,Sleeper,Deccan Express,Mumbai,Kolhapur,18-30
+445,70,Male,Sleeper,Koyna Express,Satara,Kolhapur,Above 60
+446,28,Male,General,Mahalaxmi Express,Satara,Kolhapur,18-30
+447,18,Female,Sleeper,Intercity Express,Kolhapur,Satara,Below 18
+448,37,Female,2AC,Mahalaxmi Express,Nashik,Sangli,31-45
+449,61,Female,3AC,Mahalaxmi Express,Kolhapur,Satara,Above 60
+450,25,Male,Sleeper,Intercity Express,Nashik,Sangli,18-30
+451,78,Male,General,Intercity Express,Nashik,Mumbai,Above 60
+452,21,Female,2AC,Sinhagad Express,Satara,Pune,18-30
+453,34,Male,3AC,Sinhagad Express,Kolhapur,Satara,31-45
+454,61,Male,Sleeper,Mahalaxmi Express,Pune,Kolhapur,Above 60
+455,62,Male,2AC,Mahalaxmi Express,Nashik,Pune,Above 60
+456,32,Male,Sleeper,Deccan Express,Sangli,Satara,31-45
+457,25,Female,Sleeper,Deccan Express,Sangli,Mumbai,18-30
+458,66,Female,3AC,Sinhagad Express,Pune,Sangli,Above 60
+459,48,Female,Sleeper,Sinhagad Express,Sangli,Kolhapur,46-60
+460,62,Male,2AC,Deccan Express,Mumbai,Pune,Above 60
+461,51,Female,3AC,Deccan Express,Nashik,Mumbai,46-60
+462,67,Female,Sleeper,Koyna Express,Pune,Nashik,Above 60
+463,48,Male,General,Koyna Express,Kolhapur,Sangli,46-60
+464,23,Male,General,Deccan Express,Nashik,Kolhapur,18-30
+465,14,Female,Sleeper,Koyna Express,Pune,Nashik,Below 18
+466,44,Female,3AC,Intercity Express,Satara,Sangli,31-45
+467,27,Female,Sleeper,Sinhagad Express,Kolhapur,Satara,18-30
+468,18,Female,Sleeper,Sinhagad Express,Satara,Mumbai,Below 18
+469,67,Male,3AC,Deccan Express,Nashik,Satara,Above 60
+470,26,Female,General,Mahalaxmi Express,Kolhapur,Pune,18-30
+471,16,Female,3AC,Deccan Express,Sangli,Satara,Below 18
+472,55,Male,General,Koyna Express,Pune,Sangli,46-60
+473,22,Female,2AC,Mahalaxmi Express,Nashik,Satara,18-30
+474,49,Male,Sleeper,Koyna Express,Mumbai,Kolhapur,46-60
+475,51,Male,General,Intercity Express,Kolhapur,Mumbai,46-60
+476,18,Male,Sleeper,Koyna Express,Kolhapur,Nashik,Below 18
+477,59,Female,Sleeper,Intercity Express,Nashik,Sangli,46-60
+478,36,Female,3AC,Intercity Express,Nashik,Kolhapur,31-45
+479,75,Male,3AC,Koyna Express,Satara,Mumbai,Above 60
+480,14,Female,3AC,Koyna Express,Sangli,Kolhapur,Below 18
+481,38,Female,General,Intercity Express,Satara,Pune,31-45
+482,46,Male,General,Mahalaxmi Express,Satara,Nashik,46-60
+483,47,Male,General,Intercity Express,Sangli,Satara,46-60
+484,17,Female,Sleeper,Sinhagad Express,Mumbai,Nashik,Below 18
+485,74,Male,2AC,Intercity Express,Satara,Sangli,Above 60
+486,26,Female,Sleeper,Mahalaxmi Express,Satara,Sangli,18-30
+487,54,Female,General,Sinhagad Express,Kolhapur,Satara,46-60
+488,13,Female,Sleeper,Deccan Express,Sangli,Pune,Below 18
+489,45,Female,3AC,Deccan Express,Pune,Sangli,31-45
+490,79,Male,3AC,Mahalaxmi Express,Mumbai,Kolhapur,Above 60
+491,40,Male,2AC,Intercity Express,Mumbai,Kolhapur,31-45
+492,28,Male,Sleeper,Koyna Express,Sangli,Nashik,18-30
+493,70,Male,General,Mahalaxmi Express,Nashik,Kolhapur,Above 60
+494,63,Female,2AC,Sinhagad Express,Nashik,Kolhapur,Above 60
+495,48,Female,3AC,Sinhagad Express,Kolhapur,Sangli,46-60
+496,28,Male,Sleeper,Deccan Express,Kolhapur,Sangli,18-30
+497,48,Female,3AC,Sinhagad Express,Sangli,Nashik,46-60
+498,76,Female,3AC,Mahalaxmi Express,Kolhapur,Satara,Above 60
+499,54,Female,3AC,Sinhagad Express,Mumbai,Satara,46-60
+500,22,Male,3AC,Mahalaxmi Express,Mumbai,Kolhapur,18-30
+501,67,Male,Sleeper,Koyna Express,Pune,Satara,Above 60
+502,29,Male,Sleeper,Deccan Express,Nashik,Pune,18-30
+503,70,Female,Sleeper,Sinhagad Express,Sangli,Satara,Above 60
+504,48,Male,3AC,Mahalaxmi Express,Satara,Pune,46-60
+505,10,Male,3AC,Intercity Express,Nashik,Satara,Below 18
+506,12,Male,3AC,Deccan Express,Satara,Sangli,Below 18
+507,71,Male,General,Koyna Express,Pune,Kolhapur,Above 60
+508,72,Male,3AC,Mahalaxmi Express,Pune,Mumbai,Above 60
+509,34,Male,3AC,Koyna Express,Kolhapur,Satara,31-45
+510,65,Female,3AC,Koyna Express,Pune,Satara,Above 60
+511,42,Female,3AC,Sinhagad Express,Pune,Satara,31-45
+512,47,Male,3AC,Sinhagad Express,Satara,Kolhapur,46-60
+513,15,Male,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,Below 18
+514,67,Female,Sleeper,Intercity Express,Pune,Satara,Above 60
+515,53,Female,General,Mahalaxmi Express,Nashik,Pune,46-60
+516,54,Male,Sleeper,Intercity Express,Pune,Satara,46-60
+517,41,Male,3AC,Koyna Express,Kolhapur,Satara,31-45
+518,54,Male,3AC,Deccan Express,Sangli,Satara,46-60
+519,70,Male,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,Above 60
+520,56,Female,General,Mahalaxmi Express,Satara,Pune,46-60
+521,30,Male,3AC,Intercity Express,Sangli,Satara,18-30
+522,45,Male,General,Koyna Express,Nashik,Satara,31-45
+523,28,Male,General,Koyna Express,Mumbai,Nashik,18-30
+524,29,Male,General,Intercity Express,Kolhapur,Nashik,18-30
+525,66,Female,General,Koyna Express,Satara,Kolhapur,Above 60
+526,27,Female,General,Sinhagad Express,Nashik,Satara,18-30
+527,56,Female,Sleeper,Deccan Express,Sangli,Mumbai,46-60
+528,58,Male,Sleeper,Mahalaxmi Express,Nashik,Pune,46-60
+529,23,Male,2AC,Deccan Express,Kolhapur,Sangli,18-30
+530,24,Female,Sleeper,Mahalaxmi Express,Pune,Mumbai,18-30
+531,40,Male,3AC,Sinhagad Express,Kolhapur,Satara,31-45
+532,10,Male,General,Koyna Express,Mumbai,Satara,Below 18
+533,63,Female,Sleeper,Intercity Express,Kolhapur,Nashik,Above 60
+534,12,Female,3AC,Sinhagad Express,Sangli,Nashik,Below 18
+535,25,Female,General,Deccan Express,Sangli,Satara,18-30
+536,66,Female,Sleeper,Intercity Express,Kolhapur,Sangli,Above 60
+537,21,Male,Sleeper,Koyna Express,Sangli,Kolhapur,18-30
+538,25,Male,3AC,Sinhagad Express,Pune,Mumbai,18-30
+539,33,Female,General,Intercity Express,Nashik,Kolhapur,31-45
+540,37,Male,Sleeper,Sinhagad Express,Kolhapur,Pune,31-45
+541,17,Female,3AC,Sinhagad Express,Pune,Nashik,Below 18
+542,45,Female,General,Koyna Express,Nashik,Satara,31-45
+543,17,Male,3AC,Mahalaxmi Express,Nashik,Kolhapur,Below 18
+544,67,Female,3AC,Intercity Express,Pune,Satara,Above 60
+545,69,Male,2AC,Koyna Express,Satara,Kolhapur,Above 60
+546,59,Male,Sleeper,Sinhagad Express,Kolhapur,Sangli,46-60
+547,37,Male,3AC,Koyna Express,Nashik,Sangli,31-45
+548,50,Male,Sleeper,Mahalaxmi Express,Nashik,Kolhapur,46-60
+549,73,Female,Sleeper,Intercity Express,Sangli,Satara,Above 60
+550,36,Male,General,Mahalaxmi Express,Nashik,Mumbai,31-45
+551,72,Female,3AC,Deccan Express,Pune,Sangli,Above 60
+552,26,Female,Sleeper,Intercity Express,Nashik,Mumbai,18-30
+553,42,Female,Sleeper,Mahalaxmi Express,Satara,Sangli,31-45
+554,38,Female,General,Sinhagad Express,Kolhapur,Nashik,31-45
+555,22,Male,3AC,Intercity Express,Kolhapur,Nashik,18-30
+556,55,Male,3AC,Intercity Express,Nashik,Mumbai,46-60
+557,44,Female,3AC,Koyna Express,Mumbai,Kolhapur,31-45
+558,15,Female,Sleeper,Sinhagad Express,Mumbai,Nashik,Below 18
+559,78,Male,General,Deccan Express,Pune,Kolhapur,Above 60
+560,56,Female,3AC,Mahalaxmi Express,Mumbai,Satara,46-60
+561,34,Male,Sleeper,Koyna Express,Pune,Mumbai,31-45
+562,75,Female,General,Mahalaxmi Express,Sangli,Nashik,Above 60
+563,19,Male,3AC,Deccan Express,Pune,Mumbai,18-30
+564,65,Female,2AC,Deccan Express,Mumbai,Satara,Above 60
+565,39,Female,3AC,Intercity Express,Nashik,Kolhapur,31-45
+566,14,Male,3AC,Deccan Express,Sangli,Nashik,Below 18
+567,42,Female,2AC,Mahalaxmi Express,Mumbai,Sangli,31-45
+568,74,Female,Sleeper,Sinhagad Express,Pune,Sangli,Above 60
+569,27,Male,Sleeper,Sinhagad Express,Satara,Pune,18-30
+570,58,Female,2AC,Intercity Express,Kolhapur,Mumbai,46-60
+571,20,Male,General,Mahalaxmi Express,Mumbai,Satara,18-30
+572,35,Male,3AC,Mahalaxmi Express,Pune,Mumbai,31-45
+573,72,Female,Sleeper,Deccan Express,Sangli,Pune,Above 60
+574,68,Female,Sleeper,Mahalaxmi Express,Mumbai,Sangli,Above 60
+575,36,Female,3AC,Koyna Express,Mumbai,Nashik,31-45
+576,58,Female,2AC,Deccan Express,Kolhapur,Sangli,46-60
+577,42,Female,3AC,Koyna Express,Pune,Satara,31-45
+578,10,Female,General,Intercity Express,Satara,Mumbai,Below 18
+579,30,Female,2AC,Sinhagad Express,Sangli,Kolhapur,18-30
+580,64,Male,Sleeper,Intercity Express,Pune,Nashik,Above 60
+581,15,Female,Sleeper,Sinhagad Express,Sangli,Nashik,Below 18
+582,78,Male,Sleeper,Intercity Express,Mumbai,Satara,Above 60
+583,14,Female,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,Below 18
+584,12,Female,Sleeper,Koyna Express,Kolhapur,Satara,Below 18
+585,62,Male,2AC,Sinhagad Express,Nashik,Mumbai,Above 60
+586,32,Female,3AC,Deccan Express,Satara,Mumbai,31-45
+587,62,Female,3AC,Koyna Express,Kolhapur,Nashik,Above 60
+588,46,Male,General,Deccan Express,Mumbai,Nashik,46-60
+589,26,Female,2AC,Koyna Express,Satara,Kolhapur,18-30
+590,10,Female,2AC,Koyna Express,Pune,Sangli,Below 18
+591,60,Female,3AC,Intercity Express,Kolhapur,Sangli,46-60
+592,54,Male,General,Sinhagad Express,Satara,Nashik,46-60
+593,13,Female,General,Sinhagad Express,Mumbai,Kolhapur,Below 18
+594,71,Female,Sleeper,Koyna Express,Nashik,Satara,Above 60
+595,74,Female,General,Mahalaxmi Express,Sangli,Nashik,Above 60
+596,41,Female,Sleeper,Mahalaxmi Express,Sangli,Pune,31-45
+597,43,Male,2AC,Deccan Express,Mumbai,Satara,31-45
+598,48,Male,Sleeper,Deccan Express,Mumbai,Sangli,46-60
+599,35,Female,General,Intercity Express,Sangli,Nashik,31-45
+600,43,Female,Sleeper,Koyna Express,Nashik,Kolhapur,31-45
+601,63,Male,General,Deccan Express,Satara,Pune,Above 60
+602,12,Male,General,Deccan Express,Sangli,Nashik,Below 18
+603,59,Female,Sleeper,Koyna Express,Mumbai,Sangli,46-60
+604,21,Male,Sleeper,Intercity Express,Kolhapur,Pune,18-30
+605,74,Female,3AC,Deccan Express,Pune,Nashik,Above 60
+606,63,Male,2AC,Intercity Express,Nashik,Mumbai,Above 60
+607,14,Male,Sleeper,Sinhagad Express,Nashik,Pune,Below 18
+608,66,Male,Sleeper,Intercity Express,Kolhapur,Mumbai,Above 60
+609,26,Male,3AC,Mahalaxmi Express,Kolhapur,Mumbai,18-30
+610,56,Female,Sleeper,Mahalaxmi Express,Mumbai,Pune,46-60
+611,32,Male,General,Intercity Express,Sangli,Pune,31-45
+612,23,Male,2AC,Mahalaxmi Express,Satara,Mumbai,18-30
+613,75,Female,General,Sinhagad Express,Nashik,Sangli,Above 60
+614,60,Male,3AC,Koyna Express,Nashik,Pune,46-60
+615,47,Male,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,46-60
+616,73,Female,Sleeper,Mahalaxmi Express,Sangli,Satara,Above 60
+617,47,Male,Sleeper,Intercity Express,Nashik,Kolhapur,46-60
+618,59,Female,3AC,Sinhagad Express,Satara,Mumbai,46-60
+619,39,Female,General,Koyna Express,Kolhapur,Mumbai,31-45
+620,60,Female,Sleeper,Intercity Express,Satara,Kolhapur,46-60
+621,72,Female,3AC,Intercity Express,Sangli,Satara,Above 60
+622,61,Male,Sleeper,Sinhagad Express,Nashik,Kolhapur,Above 60
+623,47,Female,General,Koyna Express,Pune,Mumbai,46-60
+624,39,Male,2AC,Sinhagad Express,Nashik,Kolhapur,31-45
+625,60,Male,Sleeper,Koyna Express,Sangli,Mumbai,46-60
+626,14,Male,3AC,Sinhagad Express,Nashik,Kolhapur,Below 18
+627,38,Male,3AC,Intercity Express,Nashik,Satara,31-45
+628,13,Male,3AC,Intercity Express,Mumbai,Nashik,Below 18
+629,19,Male,Sleeper,Deccan Express,Nashik,Pune,18-30
+630,65,Male,2AC,Mahalaxmi Express,Nashik,Kolhapur,Above 60
+631,26,Male,General,Sinhagad Express,Satara,Mumbai,18-30
+632,26,Male,3AC,Deccan Express,Pune,Nashik,18-30
+633,78,Male,General,Mahalaxmi Express,Satara,Pune,Above 60
+634,43,Female,Sleeper,Sinhagad Express,Satara,Mumbai,31-45
+635,15,Female,Sleeper,Koyna Express,Kolhapur,Sangli,Below 18
+636,62,Female,2AC,Mahalaxmi Express,Mumbai,Satara,Above 60
+637,75,Male,2AC,Intercity Express,Satara,Sangli,Above 60
+638,52,Female,General,Deccan Express,Sangli,Satara,46-60
+639,32,Female,General,Mahalaxmi Express,Sangli,Kolhapur,31-45
+640,64,Female,3AC,Mahalaxmi Express,Nashik,Pune,Above 60
+641,25,Male,Sleeper,Intercity Express,Kolhapur,Mumbai,18-30
+642,17,Male,General,Sinhagad Express,Mumbai,Satara,Below 18
+643,13,Male,3AC,Koyna Express,Mumbai,Satara,Below 18
+644,13,Male,Sleeper,Intercity Express,Nashik,Satara,Below 18
+645,65,Female,2AC,Koyna Express,Sangli,Nashik,Above 60
+646,34,Female,Sleeper,Sinhagad Express,Pune,Mumbai,31-45
+647,76,Female,Sleeper,Mahalaxmi Express,Kolhapur,Pune,Above 60
+648,76,Female,Sleeper,Koyna Express,Nashik,Kolhapur,Above 60
+649,36,Male,3AC,Deccan Express,Kolhapur,Satara,31-45
+650,41,Male,Sleeper,Deccan Express,Sangli,Pune,31-45
+651,59,Male,3AC,Intercity Express,Sangli,Satara,46-60
+652,70,Female,Sleeper,Sinhagad Express,Pune,Satara,Above 60
+653,60,Male,3AC,Intercity Express,Pune,Satara,46-60
+654,28,Male,Sleeper,Intercity Express,Mumbai,Kolhapur,18-30
+655,30,Female,General,Intercity Express,Kolhapur,Sangli,18-30
+656,14,Female,3AC,Deccan Express,Kolhapur,Mumbai,Below 18
+657,51,Male,Sleeper,Deccan Express,Sangli,Nashik,46-60
+658,70,Male,General,Intercity Express,Mumbai,Pune,Above 60
+659,31,Male,2AC,Deccan Express,Nashik,Mumbai,31-45
+660,30,Male,Sleeper,Sinhagad Express,Kolhapur,Sangli,18-30
+661,79,Male,3AC,Intercity Express,Mumbai,Nashik,Above 60
+662,10,Male,Sleeper,Deccan Express,Mumbai,Nashik,Below 18
+663,14,Female,3AC,Koyna Express,Sangli,Nashik,Below 18
+664,21,Female,General,Intercity Express,Mumbai,Satara,18-30
+665,55,Female,Sleeper,Intercity Express,Pune,Sangli,46-60
+666,43,Male,2AC,Sinhagad Express,Pune,Kolhapur,31-45
+667,58,Female,3AC,Mahalaxmi Express,Satara,Kolhapur,46-60
+668,54,Male,Sleeper,Mahalaxmi Express,Sangli,Nashik,46-60
+669,36,Male,Sleeper,Sinhagad Express,Nashik,Kolhapur,31-45
+670,35,Female,2AC,Sinhagad Express,Satara,Pune,31-45
+671,56,Male,Sleeper,Sinhagad Express,Pune,Kolhapur,46-60
+672,65,Male,3AC,Mahalaxmi Express,Satara,Sangli,Above 60
+673,72,Female,3AC,Sinhagad Express,Sangli,Pune,Above 60
+674,57,Female,General,Deccan Express,Sangli,Mumbai,46-60
+675,70,Female,General,Intercity Express,Mumbai,Pune,Above 60
+676,35,Male,3AC,Intercity Express,Kolhapur,Pune,31-45
+677,45,Female,General,Koyna Express,Mumbai,Pune,31-45
+678,10,Female,Sleeper,Koyna Express,Sangli,Mumbai,Below 18
+679,17,Male,2AC,Intercity Express,Pune,Nashik,Below 18
+680,61,Female,Sleeper,Deccan Express,Nashik,Sangli,Above 60
+681,56,Female,3AC,Mahalaxmi Express,Pune,Kolhapur,46-60
+682,65,Female,Sleeper,Mahalaxmi Express,Mumbai,Nashik,Above 60
+683,23,Male,Sleeper,Deccan Express,Nashik,Satara,18-30
+684,37,Male,General,Mahalaxmi Express,Sangli,Nashik,31-45
+685,11,Male,Sleeper,Sinhagad Express,Pune,Kolhapur,Below 18
+686,35,Male,Sleeper,Intercity Express,Sangli,Nashik,31-45
+687,23,Female,Sleeper,Intercity Express,Nashik,Sangli,18-30
+688,68,Male,3AC,Deccan Express,Nashik,Pune,Above 60
+689,65,Male,Sleeper,Mahalaxmi Express,Pune,Mumbai,Above 60
+690,16,Female,Sleeper,Koyna Express,Sangli,Pune,Below 18
+691,12,Female,Sleeper,Koyna Express,Satara,Mumbai,Below 18
+692,32,Female,General,Mahalaxmi Express,Sangli,Pune,31-45
+693,27,Male,Sleeper,Koyna Express,Nashik,Sangli,18-30
+694,47,Male,General,Deccan Express,Sangli,Kolhapur,46-60
+695,24,Male,General,Deccan Express,Mumbai,Nashik,18-30
+696,73,Female,General,Mahalaxmi Express,Satara,Nashik,Above 60
+697,37,Female,Sleeper,Koyna Express,Kolhapur,Satara,31-45
+698,48,Male,3AC,Deccan Express,Mumbai,Satara,46-60
+699,66,Female,Sleeper,Deccan Express,Kolhapur,Nashik,Above 60
+700,26,Female,Sleeper,Sinhagad Express,Pune,Sangli,18-30
+701,53,Female,3AC,Sinhagad Express,Kolhapur,Sangli,46-60
+702,34,Male,General,Deccan Express,Sangli,Mumbai,31-45
+703,26,Female,2AC,Mahalaxmi Express,Kolhapur,Mumbai,18-30
+704,22,Female,Sleeper,Intercity Express,Nashik,Satara,18-30
+705,34,Male,Sleeper,Intercity Express,Mumbai,Nashik,31-45
+706,77,Male,Sleeper,Deccan Express,Mumbai,Sangli,Above 60
+707,19,Female,General,Deccan Express,Kolhapur,Pune,18-30
+708,76,Female,3AC,Deccan Express,Mumbai,Kolhapur,Above 60
+709,27,Male,Sleeper,Mahalaxmi Express,Nashik,Sangli,18-30
+710,43,Male,2AC,Sinhagad Express,Mumbai,Kolhapur,31-45
+711,17,Female,General,Deccan Express,Kolhapur,Nashik,Below 18
+712,49,Female,Sleeper,Deccan Express,Satara,Pune,46-60
+713,51,Female,Sleeper,Koyna Express,Satara,Pune,46-60
+714,50,Female,General,Mahalaxmi Express,Pune,Satara,46-60
+715,15,Male,Sleeper,Deccan Express,Mumbai,Pune,Below 18
+716,61,Female,3AC,Koyna Express,Kolhapur,Nashik,Above 60
+717,35,Female,3AC,Intercity Express,Mumbai,Nashik,31-45
+718,73,Male,Sleeper,Deccan Express,Sangli,Mumbai,Above 60
+719,68,Female,3AC,Deccan Express,Nashik,Pune,Above 60
+720,65,Male,2AC,Koyna Express,Mumbai,Pune,Above 60
+721,68,Female,2AC,Mahalaxmi Express,Mumbai,Kolhapur,Above 60
+722,79,Female,General,Deccan Express,Satara,Kolhapur,Above 60
+723,42,Male,3AC,Intercity Express,Nashik,Pune,31-45
+724,62,Male,Sleeper,Deccan Express,Kolhapur,Satara,Above 60
+725,31,Female,2AC,Intercity Express,Mumbai,Kolhapur,31-45
+726,30,Female,Sleeper,Sinhagad Express,Satara,Pune,18-30
+727,79,Female,General,Sinhagad Express,Pune,Kolhapur,Above 60
+728,79,Male,3AC,Intercity Express,Nashik,Kolhapur,Above 60
+729,13,Female,Sleeper,Mahalaxmi Express,Satara,Mumbai,Below 18
+730,71,Male,2AC,Deccan Express,Satara,Pune,Above 60
+731,71,Male,2AC,Deccan Express,Satara,Sangli,Above 60
+732,33,Female,3AC,Sinhagad Express,Mumbai,Nashik,31-45
+733,64,Male,General,Intercity Express,Mumbai,Pune,Above 60
+734,18,Female,3AC,Deccan Express,Pune,Kolhapur,Below 18
+735,12,Female,General,Deccan Express,Sangli,Nashik,Below 18
+736,40,Female,General,Mahalaxmi Express,Sangli,Pune,31-45
+737,49,Female,3AC,Koyna Express,Sangli,Mumbai,46-60
+738,45,Female,Sleeper,Sinhagad Express,Nashik,Mumbai,31-45
+739,33,Male,Sleeper,Sinhagad Express,Nashik,Sangli,31-45
+740,15,Male,2AC,Koyna Express,Pune,Satara,Below 18
+741,75,Female,Sleeper,Deccan Express,Nashik,Pune,Above 60
+742,13,Female,Sleeper,Mahalaxmi Express,Sangli,Kolhapur,Below 18
+743,15,Male,2AC,Mahalaxmi Express,Sangli,Kolhapur,Below 18
+744,60,Male,General,Sinhagad Express,Satara,Sangli,46-60
+745,71,Male,3AC,Mahalaxmi Express,Nashik,Mumbai,Above 60
+746,66,Male,2AC,Koyna Express,Mumbai,Kolhapur,Above 60
+747,75,Female,2AC,Deccan Express,Mumbai,Pune,Above 60
+748,17,Female,3AC,Koyna Express,Satara,Sangli,Below 18
+749,35,Male,Sleeper,Intercity Express,Satara,Nashik,31-45
+750,60,Female,Sleeper,Sinhagad Express,Satara,Sangli,46-60
+751,54,Male,3AC,Mahalaxmi Express,Mumbai,Sangli,46-60
+752,53,Female,2AC,Intercity Express,Sangli,Pune,46-60
+753,14,Male,Sleeper,Mahalaxmi Express,Satara,Sangli,Below 18
+754,79,Female,Sleeper,Deccan Express,Pune,Satara,Above 60
+755,35,Male,General,Deccan Express,Satara,Pune,31-45
+756,77,Male,General,Deccan Express,Kolhapur,Satara,Above 60
+757,28,Female,3AC,Mahalaxmi Express,Satara,Pune,18-30
+758,29,Male,Sleeper,Intercity Express,Mumbai,Sangli,18-30
+759,21,Female,2AC,Deccan Express,Nashik,Satara,18-30
+760,56,Female,3AC,Intercity Express,Satara,Kolhapur,46-60
+761,10,Male,General,Mahalaxmi Express,Nashik,Satara,Below 18
+762,23,Female,3AC,Intercity Express,Kolhapur,Pune,18-30
+763,73,Female,Sleeper,Mahalaxmi Express,Pune,Kolhapur,Above 60
+764,47,Female,Sleeper,Mahalaxmi Express,Nashik,Sangli,46-60
+765,46,Female,3AC,Sinhagad Express,Sangli,Satara,46-60
+766,20,Female,3AC,Mahalaxmi Express,Satara,Nashik,18-30
+767,12,Male,3AC,Mahalaxmi Express,Kolhapur,Nashik,Below 18
+768,42,Female,Sleeper,Koyna Express,Kolhapur,Nashik,31-45
+769,15,Female,General,Deccan Express,Nashik,Sangli,Below 18
+770,59,Female,3AC,Sinhagad Express,Pune,Sangli,46-60
+771,19,Female,General,Sinhagad Express,Mumbai,Satara,18-30
+772,14,Female,Sleeper,Sinhagad Express,Satara,Kolhapur,Below 18
+773,32,Male,General,Koyna Express,Kolhapur,Pune,31-45
+774,19,Female,3AC,Mahalaxmi Express,Pune,Kolhapur,18-30
+775,53,Male,General,Deccan Express,Sangli,Kolhapur,46-60
+776,11,Male,3AC,Intercity Express,Kolhapur,Satara,Below 18
+777,22,Male,2AC,Mahalaxmi Express,Pune,Sangli,18-30
+778,49,Male,General,Koyna Express,Mumbai,Satara,46-60
+779,11,Female,General,Mahalaxmi Express,Mumbai,Sangli,Below 18
+780,74,Male,Sleeper,Mahalaxmi Express,Kolhapur,Sangli,Above 60
+781,72,Male,2AC,Koyna Express,Kolhapur,Satara,Above 60
+782,26,Female,Sleeper,Sinhagad Express,Nashik,Mumbai,18-30
+783,18,Female,Sleeper,Sinhagad Express,Satara,Kolhapur,Below 18
+784,24,Female,General,Deccan Express,Pune,Nashik,18-30
+785,33,Male,3AC,Deccan Express,Kolhapur,Sangli,31-45
+786,47,Female,Sleeper,Sinhagad Express,Satara,Sangli,46-60
+787,44,Female,3AC,Intercity Express,Nashik,Mumbai,31-45
+788,58,Male,2AC,Mahalaxmi Express,Satara,Nashik,46-60
+789,78,Female,Sleeper,Intercity Express,Kolhapur,Pune,Above 60
+790,71,Female,3AC,Mahalaxmi Express,Mumbai,Satara,Above 60
+791,69,Female,General,Sinhagad Express,Pune,Nashik,Above 60
+792,59,Female,2AC,Deccan Express,Pune,Mumbai,46-60
+793,18,Male,3AC,Deccan Express,Mumbai,Sangli,Below 18
+794,43,Female,2AC,Intercity Express,Kolhapur,Nashik,31-45
+795,44,Female,General,Deccan Express,Pune,Mumbai,31-45
+796,10,Male,General,Sinhagad Express,Kolhapur,Pune,Below 18
+797,49,Female,Sleeper,Intercity Express,Nashik,Satara,46-60
+798,73,Male,Sleeper,Mahalaxmi Express,Kolhapur,Nashik,Above 60
+799,31,Female,Sleeper,Deccan Express,Satara,Mumbai,31-45
+800,69,Male,Sleeper,Koyna Express,Mumbai,Kolhapur,Above 60
+801,73,Male,General,Deccan Express,Kolhapur,Pune,Above 60
+802,20,Male,Sleeper,Mahalaxmi Express,Nashik,Kolhapur,18-30
+803,23,Male,3AC,Intercity Express,Sangli,Mumbai,18-30
+804,69,Female,Sleeper,Mahalaxmi Express,Mumbai,Kolhapur,Above 60
+805,39,Male,General,Koyna Express,Pune,Kolhapur,31-45
+806,44,Female,Sleeper,Sinhagad Express,Satara,Pune,31-45
+807,46,Male,General,Deccan Express,Pune,Nashik,46-60
+808,14,Male,2AC,Intercity Express,Nashik,Kolhapur,Below 18
+809,35,Male,General,Sinhagad Express,Nashik,Mumbai,31-45
+810,71,Female,3AC,Mahalaxmi Express,Pune,Kolhapur,Above 60
+811,13,Male,2AC,Intercity Express,Mumbai,Kolhapur,Below 18
+812,51,Female,3AC,Sinhagad Express,Pune,Satara,46-60
+813,27,Female,3AC,Intercity Express,Kolhapur,Nashik,18-30
+814,49,Female,3AC,Koyna Express,Pune,Sangli,46-60
+815,48,Female,2AC,Koyna Express,Satara,Mumbai,46-60
+816,23,Female,3AC,Deccan Express,Satara,Mumbai,18-30
+817,41,Female,Sleeper,Deccan Express,Sangli,Pune,31-45
+818,60,Female,3AC,Koyna Express,Satara,Nashik,46-60
+819,47,Female,Sleeper,Intercity Express,Pune,Sangli,46-60
+820,32,Female,3AC,Koyna Express,Satara,Nashik,31-45
+821,72,Male,Sleeper,Deccan Express,Mumbai,Nashik,Above 60
+822,24,Male,Sleeper,Koyna Express,Satara,Kolhapur,18-30
+823,34,Male,General,Koyna Express,Kolhapur,Pune,31-45
+824,26,Male,General,Intercity Express,Mumbai,Satara,18-30
+825,75,Male,Sleeper,Sinhagad Express,Sangli,Kolhapur,Above 60
+826,62,Female,General,Deccan Express,Kolhapur,Mumbai,Above 60
+827,60,Female,Sleeper,Intercity Express,Pune,Kolhapur,46-60
+828,48,Female,Sleeper,Koyna Express,Pune,Satara,46-60
+829,60,Female,3AC,Koyna Express,Pune,Satara,46-60
+830,79,Female,General,Sinhagad Express,Kolhapur,Mumbai,Above 60
+831,15,Female,Sleeper,Deccan Express,Kolhapur,Mumbai,Below 18
+832,76,Female,3AC,Deccan Express,Kolhapur,Nashik,Above 60
+833,16,Male,Sleeper,Mahalaxmi Express,Mumbai,Sangli,Below 18
+834,60,Male,General,Deccan Express,Nashik,Kolhapur,46-60
+835,51,Male,2AC,Sinhagad Express,Mumbai,Nashik,46-60
+836,73,Male,2AC,Mahalaxmi Express,Pune,Mumbai,Above 60
+837,24,Female,Sleeper,Mahalaxmi Express,Nashik,Pune,18-30
+838,38,Female,Sleeper,Koyna Express,Satara,Kolhapur,31-45
+839,42,Female,2AC,Koyna Express,Pune,Kolhapur,31-45
+840,36,Male,3AC,Deccan Express,Sangli,Nashik,31-45
+841,45,Female,Sleeper,Mahalaxmi Express,Mumbai,Nashik,31-45
+842,38,Female,3AC,Koyna Express,Kolhapur,Sangli,31-45
+843,47,Female,Sleeper,Sinhagad Express,Mumbai,Sangli,46-60
+844,66,Male,Sleeper,Koyna Express,Kolhapur,Sangli,Above 60
+845,36,Female,Sleeper,Koyna Express,Nashik,Mumbai,31-45
+846,64,Male,3AC,Mahalaxmi Express,Sangli,Kolhapur,Above 60
+847,42,Male,Sleeper,Mahalaxmi Express,Nashik,Satara,31-45
+848,77,Male,3AC,Intercity Express,Sangli,Pune,Above 60
+849,75,Male,Sleeper,Sinhagad Express,Mumbai,Pune,Above 60
+850,19,Female,Sleeper,Mahalaxmi Express,Kolhapur,Pune,18-30
+851,14,Male,Sleeper,Deccan Express,Nashik,Pune,Below 18
+852,47,Male,3AC,Sinhagad Express,Sangli,Nashik,46-60
+853,22,Female,Sleeper,Sinhagad Express,Pune,Kolhapur,18-30
+854,40,Female,General,Mahalaxmi Express,Pune,Kolhapur,31-45
+855,56,Male,2AC,Sinhagad Express,Nashik,Sangli,46-60
+856,61,Female,General,Mahalaxmi Express,Kolhapur,Pune,Above 60
+857,65,Male,2AC,Koyna Express,Nashik,Mumbai,Above 60
+858,24,Male,General,Intercity Express,Mumbai,Satara,18-30
+859,38,Male,3AC,Koyna Express,Sangli,Satara,31-45
+860,17,Male,General,Mahalaxmi Express,Mumbai,Satara,Below 18
+861,14,Female,2AC,Mahalaxmi Express,Pune,Sangli,Below 18
+862,38,Male,Sleeper,Koyna Express,Sangli,Pune,31-45
+863,56,Female,General,Deccan Express,Nashik,Mumbai,46-60
+864,77,Female,Sleeper,Deccan Express,Mumbai,Nashik,Above 60
+865,54,Female,General,Deccan Express,Satara,Nashik,46-60
+866,11,Female,General,Mahalaxmi Express,Kolhapur,Sangli,Below 18
+867,36,Male,2AC,Sinhagad Express,Kolhapur,Satara,31-45
+868,45,Female,Sleeper,Mahalaxmi Express,Satara,Mumbai,31-45
+869,45,Male,3AC,Sinhagad Express,Pune,Mumbai,31-45
+870,35,Female,3AC,Koyna Express,Sangli,Satara,31-45
+871,52,Female,3AC,Intercity Express,Kolhapur,Satara,46-60
+872,36,Male,General,Sinhagad Express,Satara,Nashik,31-45
+873,78,Male,Sleeper,Deccan Express,Nashik,Kolhapur,Above 60
+874,29,Male,3AC,Mahalaxmi Express,Satara,Mumbai,18-30
+875,20,Female,2AC,Koyna Express,Pune,Kolhapur,18-30
+876,47,Female,Sleeper,Deccan Express,Pune,Kolhapur,46-60
+877,15,Male,Sleeper,Koyna Express,Mumbai,Kolhapur,Below 18
+878,32,Male,Sleeper,Intercity Express,Kolhapur,Satara,31-45
+879,56,Male,2AC,Mahalaxmi Express,Mumbai,Kolhapur,46-60
+880,55,Male,Sleeper,Mahalaxmi Express,Satara,Pune,46-60
+881,21,Female,Sleeper,Intercity Express,Sangli,Mumbai,18-30
+882,22,Male,2AC,Mahalaxmi Express,Sangli,Satara,18-30
+883,71,Male,General,Sinhagad Express,Pune,Kolhapur,Above 60
+884,69,Male,General,Koyna Express,Sangli,Satara,Above 60
+885,52,Male,3AC,Deccan Express,Sangli,Kolhapur,46-60
+886,77,Female,2AC,Intercity Express,Sangli,Nashik,Above 60
+887,14,Male,Sleeper,Sinhagad Express,Satara,Nashik,Below 18
+888,46,Female,Sleeper,Deccan Express,Sangli,Mumbai,46-60
+889,40,Male,Sleeper,Deccan Express,Nashik,Sangli,31-45
+890,18,Male,Sleeper,Intercity Express,Sangli,Pune,Below 18
+891,60,Female,3AC,Sinhagad Express,Sangli,Satara,46-60
+892,38,Male,Sleeper,Deccan Express,Mumbai,Pune,31-45
+893,49,Female,Sleeper,Deccan Express,Satara,Mumbai,46-60
+894,50,Female,Sleeper,Sinhagad Express,Pune,Nashik,46-60
+895,20,Male,Sleeper,Mahalaxmi Express,Mumbai,Sangli,18-30
+896,32,Female,Sleeper,Deccan Express,Kolhapur,Nashik,31-45
+897,10,Female,2AC,Koyna Express,Satara,Kolhapur,Below 18
+898,55,Female,General,Sinhagad Express,Nashik,Pune,46-60
+899,30,Female,3AC,Deccan Express,Satara,Nashik,18-30
+900,45,Female,3AC,Intercity Express,Kolhapur,Sangli,31-45
+901,63,Female,Sleeper,Koyna Express,Kolhapur,Satara,Above 60
+902,66,Female,Sleeper,Deccan Express,Kolhapur,Nashik,Above 60
+903,10,Female,Sleeper,Koyna Express,Pune,Sangli,Below 18
+904,72,Male,Sleeper,Koyna Express,Sangli,Nashik,Above 60
+905,63,Male,Sleeper,Mahalaxmi Express,Satara,Kolhapur,Above 60
+906,64,Female,General,Koyna Express,Sangli,Nashik,Above 60
+907,49,Male,Sleeper,Mahalaxmi Express,Sangli,Mumbai,46-60
+908,24,Female,3AC,Sinhagad Express,Nashik,Pune,18-30
+909,30,Female,Sleeper,Mahalaxmi Express,Kolhapur,Sangli,18-30
+910,56,Male,3AC,Intercity Express,Pune,Mumbai,46-60
+911,62,Female,Sleeper,Deccan Express,Nashik,Mumbai,Above 60
+912,18,Female,2AC,Sinhagad Express,Mumbai,Kolhapur,Below 18
+913,61,Female,Sleeper,Sinhagad Express,Pune,Nashik,Above 60
+914,66,Female,General,Intercity Express,Sangli,Satara,Above 60
+915,35,Male,3AC,Mahalaxmi Express,Pune,Satara,31-45
+916,50,Female,General,Deccan Express,Kolhapur,Satara,46-60
+917,44,Female,Sleeper,Mahalaxmi Express,Mumbai,Nashik,31-45
+918,72,Female,2AC,Koyna Express,Kolhapur,Sangli,Above 60
+919,34,Male,General,Mahalaxmi Express,Mumbai,Satara,31-45
+920,47,Female,Sleeper,Sinhagad Express,Nashik,Pune,46-60
+921,11,Male,3AC,Deccan Express,Sangli,Mumbai,Below 18
+922,16,Male,2AC,Mahalaxmi Express,Mumbai,Sangli,Below 18
+923,43,Female,3AC,Deccan Express,Mumbai,Pune,31-45
+924,26,Female,Sleeper,Deccan Express,Mumbai,Satara,18-30
+925,52,Male,3AC,Koyna Express,Pune,Sangli,46-60
+926,68,Female,Sleeper,Koyna Express,Nashik,Kolhapur,Above 60
+927,60,Male,3AC,Sinhagad Express,Pune,Kolhapur,46-60
+928,63,Male,2AC,Intercity Express,Sangli,Satara,Above 60
+929,33,Female,3AC,Deccan Express,Mumbai,Satara,31-45
+930,34,Female,2AC,Intercity Express,Nashik,Pune,31-45
+931,61,Male,General,Sinhagad Express,Nashik,Pune,Above 60
+932,79,Male,3AC,Deccan Express,Satara,Kolhapur,Above 60
+933,42,Male,3AC,Deccan Express,Sangli,Satara,31-45
+934,58,Male,General,Intercity Express,Nashik,Sangli,46-60
+935,38,Female,2AC,Mahalaxmi Express,Mumbai,Satara,31-45
+936,72,Female,Sleeper,Koyna Express,Mumbai,Kolhapur,Above 60
+937,31,Female,3AC,Mahalaxmi Express,Nashik,Sangli,31-45
+938,35,Female,3AC,Intercity Express,Pune,Sangli,31-45
+939,37,Female,3AC,Koyna Express,Sangli,Mumbai,31-45
+940,58,Male,General,Mahalaxmi Express,Mumbai,Sangli,46-60
+941,58,Female,Sleeper,Koyna Express,Nashik,Pune,46-60
+942,29,Female,Sleeper,Deccan Express,Mumbai,Sangli,18-30
+943,72,Female,2AC,Mahalaxmi Express,Nashik,Sangli,Above 60
+944,70,Female,Sleeper,Koyna Express,Sangli,Mumbai,Above 60
+945,58,Female,Sleeper,Koyna Express,Nashik,Kolhapur,46-60
+946,10,Male,3AC,Koyna Express,Satara,Sangli,Below 18
+947,22,Male,Sleeper,Mahalaxmi Express,Nashik,Kolhapur,18-30
+948,60,Male,3AC,Sinhagad Express,Nashik,Sangli,46-60
+949,65,Female,3AC,Mahalaxmi Express,Sangli,Kolhapur,Above 60
+950,71,Male,2AC,Intercity Express,Nashik,Mumbai,Above 60
+951,41,Male,Sleeper,Mahalaxmi Express,Sangli,Kolhapur,31-45
+952,39,Female,Sleeper,Koyna Express,Satara,Mumbai,31-45
+953,38,Female,General,Deccan Express,Sangli,Pune,31-45
+954,58,Female,General,Mahalaxmi Express,Mumbai,Kolhapur,46-60
+955,54,Male,General,Mahalaxmi Express,Sangli,Pune,46-60
+956,39,Male,General,Koyna Express,Satara,Pune,31-45
+957,25,Female,3AC,Deccan Express,Kolhapur,Mumbai,18-30
+958,49,Female,3AC,Deccan Express,Nashik,Kolhapur,46-60
+959,28,Male,Sleeper,Intercity Express,Sangli,Satara,18-30
+960,27,Male,3AC,Mahalaxmi Express,Nashik,Mumbai,18-30
+961,10,Female,2AC,Deccan Express,Pune,Sangli,Below 18
+962,56,Female,3AC,Deccan Express,Mumbai,Nashik,46-60
+963,75,Male,3AC,Sinhagad Express,Mumbai,Nashik,Above 60
+964,47,Female,Sleeper,Sinhagad Express,Pune,Sangli,46-60
+965,60,Male,Sleeper,Deccan Express,Pune,Satara,46-60
+966,72,Male,General,Intercity Express,Sangli,Nashik,Above 60
+967,13,Male,Sleeper,Deccan Express,Pune,Nashik,Below 18
+968,10,Male,2AC,Koyna Express,Kolhapur,Satara,Below 18
+969,17,Female,3AC,Mahalaxmi Express,Nashik,Sangli,Below 18
+970,38,Female,Sleeper,Intercity Express,Nashik,Satara,31-45
+971,64,Male,Sleeper,Koyna Express,Satara,Mumbai,Above 60
+972,12,Male,3AC,Intercity Express,Pune,Satara,Below 18
+973,41,Male,General,Koyna Express,Pune,Nashik,31-45
+974,19,Male,Sleeper,Mahalaxmi Express,Kolhapur,Mumbai,18-30
+975,43,Male,2AC,Mahalaxmi Express,Mumbai,Kolhapur,31-45
+976,64,Female,Sleeper,Sinhagad Express,Mumbai,Sangli,Above 60
+977,41,Female,General,Koyna Express,Nashik,Sangli,31-45
+978,59,Female,Sleeper,Sinhagad Express,Nashik,Satara,46-60
+979,16,Female,2AC,Koyna Express,Sangli,Nashik,Below 18
+980,17,Male,Sleeper,Sinhagad Express,Kolhapur,Mumbai,Below 18
+981,74,Male,Sleeper,Mahalaxmi Express,Satara,Kolhapur,Above 60
+982,66,Male,Sleeper,Intercity Express,Satara,Mumbai,Above 60
+983,76,Male,Sleeper,Sinhagad Express,Kolhapur,Sangli,Above 60
+984,68,Male,Sleeper,Koyna Express,Satara,Mumbai,Above 60
+985,63,Female,3AC,Koyna Express,Mumbai,Kolhapur,Above 60
+986,76,Male,General,Mahalaxmi Express,Satara,Nashik,Above 60
+987,60,Female,2AC,Koyna Express,Satara,Mumbai,46-60
+988,17,Female,General,Deccan Express,Kolhapur,Pune,Below 18
+989,43,Female,Sleeper,Intercity Express,Kolhapur,Mumbai,31-45
+990,44,Female,General,Sinhagad Express,Satara,Pune,31-45
+991,41,Male,Sleeper,Intercity Express,Pune,Sangli,31-45
+992,55,Female,Sleeper,Mahalaxmi Express,Kolhapur,Satara,46-60
+993,25,Female,Sleeper,Sinhagad Express,Sangli,Satara,18-30
+994,77,Female,General,Sinhagad Express,Sangli,Mumbai,Above 60
+995,46,Male,3AC,Deccan Express,Mumbai,Nashik,46-60
+996,63,Male,General,Mahalaxmi Express,Satara,Sangli,Above 60
+997,23,Male,3AC,Koyna Express,Pune,Mumbai,18-30
+998,64,Female,2AC,Deccan Express,Mumbai,Sangli,Above 60
+999,57,Female,Sleeper,Deccan Express,Satara,Pune,46-60
+1000,16,Male,Sleeper,Intercity Express,Kolhapur,Satara,Below 18
